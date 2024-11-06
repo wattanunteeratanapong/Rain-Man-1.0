@@ -1,6 +1,6 @@
 # Rain Man 1.0
 ![caca63488d914e978915f7a4262f20917515299e91b767fad0a8bd37f795add7 _SX1080_FMjpg_](https://github.com/user-attachments/assets/2f5021a9-748d-4e16-b6a9-ac283aee165e)<br><br>
-Have you ever watch a movie called "Rain Man"? Well "Rain Man" is a movie about two brother, the elder brother is a man who is really really smart he could remember everything that he saw, and he use this ability to outsmart the casino in a game of Blackjack using his brain calculating probability in his head and make a lot of money. Blackjack is a game that heavily relie on math more than most of the other games, which often depend heavily on luck or bluffing. With a good mathmatic strategy, i might be able to turn an odd to my favor just like a Rain Man did. So i decide to do this project, to replicate his play style. <br><br>
+Have you ever watch a movie called "Rain Man"? Well "Rain Man" is a movie about two brother, the elder brother is a man who is really really smart he could remember everything that he saw, and he use this ability to outsmart the casino in a game of Blackjack, using his brain calculating probability in his head and make a lot of money. Blackjack is a game that heavily relie on math more than most of the other games, which often depend heavily on luck or bluffing. With a good mathmatical strategy, i might be able to turn an odd to my favor just like a Rain Man did. So i decide to do this project, to replicate his play style. <br><br>
 
 
 ## Overview
