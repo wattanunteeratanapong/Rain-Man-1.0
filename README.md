@@ -13,6 +13,12 @@ Technique that we are gonna use in this project
 <br>
 
 ## Control Variable
+- This scenerio test 1v1 against dealer
+- Using 6 deck of card, similar to a real casino
+- Re-shuffle the deck after it is below 70% of total amount of deck, similar to a real casino
+- "Splitting" and "Doubling Down" are allow
+- Test around 10 million times, the more testing times the closer to theoratical probability
+<br>
 
 ## Simulation
 
