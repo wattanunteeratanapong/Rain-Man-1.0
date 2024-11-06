@@ -5,8 +5,8 @@ Have you ever heard of a movie called "Rain Man"? Well "Rain Man" is a movie abo
 
 ## Overview
 According to my past repository, i tried to proof that the edge is on the house side. Conclusion from that experiment, the edge is really on the house side. If we didn't have any strategy and play 1v1 against the dealer, the longer we play the more we likely to lose. Because of Blackjack is design for a dealer to have more edge than a player. By letting player play before the dealer, this could lead to player getting busted before the dealer are actually play. But with a good technique, it could reduce busted rate and help manage cash in a long run. <br>
-You can also checkout this repository if you wanna know why odd are on the house side <br>
-https://github.com/wattanunteeratanapong/Blackjack-House-Edge-Study <br><br>
+You can also checkout this repository if you wanna know why odd are on the house side : <br>
+https://github.com/wattanunteeratanapong/Blackjack-House-Edge-Study <br>
 Technique that we are gonna use in this project 
 1. Hi-Lo Card Counting System (For manage a bet amount in each round, if true count is high we bet high, if it's low we bet low)
 2. Basic Strategy Chart (For lower risk of getting busted)
