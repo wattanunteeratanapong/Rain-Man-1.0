@@ -13,6 +13,19 @@ Technique that we are gonna use in this project
 2. Basic Strategy Chart (For lower risk of getting busted)
 <br>
 
+## Hi-Lo Card Counting Technique 
+Hi-Lo Card Counting Technique is used for keeping track of the ratio of high to low cards remaining in the deck <br>
+2, 3, 4, 5&nbsp;&nbsp;&nbsp;are valued at +1 (low cards) <br>
+7, 8, 9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;are valued at &nbsp;&nbsp;0 (neutral) <br>
+J, Q, K, A&nbsp;&nbsp;are valued at -1 (high cards) <br>
+Running Count as cards are dealt, players keep a "running count" based on the assign value<br>
+True Count is a division of running count and the estimated number of remaining decks<br>
+The higher true count is the higher we should bet<br>
+<br>
+
+## Basic Strategy Chart 
+<br>
+
 ## Control Variable
 - This scenerio test 1v1 against dealer
 - Using 6 deck of card, similar to a real casino
