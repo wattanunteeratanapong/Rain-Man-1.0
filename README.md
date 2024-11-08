@@ -39,3 +39,22 @@ The higher true count is the higher we should bet<br>
 ## Result
 
 ## Conclusion
+
+## Source
+<a href="https://youtu.be/eyoh-Ku9TCI?si=7lreOZh8m4uysgaU">How to Play Blackjack | wikiHow</a>
+<br>
+
+<a href="https://youtu.be/rjfLuM-Pqr8?si=2WPhj4LbADi6T7jW">Can I make money counting cards? | Mike Boyd</a>
+<br>
+
+<a href="https://youtu.be/SHK2C-QQR-k?si=cSkeUIwglOLbW2gK">How to Count Cards (and Bring Down the House)</a>
+<br>
+
+<a href="https://youtu.be/G_So72lFNIU?si=BCeG_7-1XNIjAAPz">Blackjack Expert Explains How Card Counting Works | WIRED</a>
+<br>
+
+<a href="https://www.wikihow.com/Count-Cards-in-Blackjack#:~:text=Every%20time%20a%20card%20is,subtract%201%20from%20the%20total">How to Count Cards in Blackjack</a>
+<br>
+
+<a href="https://news.williamhill.com/casino-guides/blackjack-hit-stand/#:~:text=In%20general%2C%20if%20you%20have,showing%2C%20then%20you%20should%20stand">To hit or stand in Blackjack – that is the question!</a>
+<br>
