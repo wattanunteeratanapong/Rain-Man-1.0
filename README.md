@@ -32,6 +32,7 @@ The higher true count is the higher we should bet<br>
 <br>
 
 ## Basic Strategy Chart 
+Basic Strategy Chart is a chart that tell the player to hit or not, depend on player hand and dealer hand.
 <br>
 
 ## Simulation
