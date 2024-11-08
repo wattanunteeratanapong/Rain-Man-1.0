@@ -13,6 +13,14 @@ Technique that we are gonna use in this project
 2. Basic Strategy Chart (For lower risk of getting busted)
 <br>
 
+## Control Variable
+- This scenerio test 1v1 against dealer
+- Using 6 deck of card, similar to a real casino
+- Re-shuffle the deck after it is below 70% of total amount of deck, similar to a real casino
+- "Splitting" and "Doubling Down" are allow
+- Test around 10 million times, the more testing times the closer to theoratical probability
+<br>
+
 ## Hi-Lo Card Counting Technique 
 Hi-Lo Card Counting Technique is used for keeping track of the ratio of high to low cards remaining in the deck <br>
 2, 3, 4, 5&nbsp;&nbsp;&nbsp;are valued at +1 (low cards) <br>
@@ -24,14 +32,6 @@ The higher true count is the higher we should bet<br>
 <br>
 
 ## Basic Strategy Chart 
-<br>
-
-## Control Variable
-- This scenerio test 1v1 against dealer
-- Using 6 deck of card, similar to a real casino
-- Re-shuffle the deck after it is below 70% of total amount of deck, similar to a real casino
-- "Splitting" and "Doubling Down" are allow
-- Test around 10 million times, the more testing times the closer to theoratical probability
 <br>
 
 ## Simulation
