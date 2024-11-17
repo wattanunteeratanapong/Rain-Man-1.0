@@ -28,12 +28,16 @@ Hi-Lo Card Counting Technique is used for keeping track of the ratio of high to 
 J, Q, K, A&nbsp;&nbsp;are valued at -1 (high cards) <br>
 Running Count as cards are dealt, players keep a "running count" based on the assign value<br>
 True Count is a division of running count and the estimated number of remaining decks<br>
-The higher true count is the higher we should bet<br>
+The higher true count is the higher we should bet <br><br>
+![S__120848389](https://github.com/user-attachments/assets/ed07af38-9a1f-4374-afc6-6a8b9e582f80) <br>
 <br>
 
 ## Basic Strategy Chart 
-Basic Strategy Chart is a chart that tell the player to hit or not, depend on player hand and dealer hand.
+Basic Strategy Chart is a chart that tell the player to "Hit" or "Stand", depend on player and dealer hand. This technique significantly lower player busted rate. <br><br>
+![S__120848388](https://github.com/user-attachments/assets/0533cb70-34a1-4aa1-8119-8590cb9b2293) <br>
+Credit : <a href="https://www.blackjackapprenticeship.com/blackjack-strategy-charts/">Learn Blackjack Strategy</a> <br>
 <br>
+
 
 ## Simulation
 
@@ -58,4 +62,7 @@ Basic Strategy Chart is a chart that tell the player to hit or not, depend on pl
 <br>
 
 <a href="https://news.williamhill.com/casino-guides/blackjack-hit-stand/#:~:text=In%20general%2C%20if%20you%20have,showing%2C%20then%20you%20should%20stand">To hit or stand in Blackjack – that is the question!</a>
+<br>
+
+<a href="https://www.blackjackapprenticeship.com/blackjack-strategy-charts/">Learn Blackjack Strategy</a> 
 <br>
